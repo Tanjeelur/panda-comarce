@@ -19,3 +19,40 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.cat1{
+    background-image: linear-gradient(to right, orange, yellow);
+}
+.cat2{
+    background-image: linear-gradient(to right, rgb(255, 108, 132),lightpink);
+}
+.cat3{
+    background-image: linear-gradient(to right, blue,  lightblue);
+}
+.catagories h1{
+    color: #fff;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 10px 10px 30px lightblue;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#log-in{
+    height: 300px;
+}
+#log-in h6{
+    color: grey;
+}
+footer{
+    text-align: center;
+}
